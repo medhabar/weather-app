@@ -1,4 +1,7 @@
 # Weather App
+[Click here to view the project]( https://medhabar.github.io/weather-app/)
+
+ 
 
 ## Overview
 The Weather App is a web application that provides real-time weather updates for any city. It fetches weather data using the OpenWeather API and displays temperature, humidity, and wind speed along with an appropriate weather icon.
